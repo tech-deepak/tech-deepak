@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am Senior Software Engineer and I have 7 Years of experience. and i wok in Prudent Brokers Pvt Ltd
+Anchored at Prudent Insurance Brokers Pvt Ltd as Senior Software Engineer, my role synthesizes leadership with technical acumen in software infrastructure, underpinned by a sound foundation in Computer Science & Engineering from Maharana Pratap Group of Institutions. My trajectory includes steering product development with a keen focus on Angular, fostering an environment where collaborative innovation thrives.
+
+My previous tenure at Biz2X allowed me to craft robust B2B SaaS solutions, leading a dynamic team and honing my capabilities in Angular CLI. These experiences, coupled with recognitions like Star Performer, reflect my dedication to engineering excellence and my continuous pursuit of elevating team performance and product quality.
 
 
 # 💻 Tech Stack:
